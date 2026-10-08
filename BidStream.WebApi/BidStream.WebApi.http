@@ -1,0 +1,6 @@
+@BidStream.WebApi_HostAddress = http://localhost:5062
+
+GET {{BidStream.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

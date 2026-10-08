@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BidStream.Application/BidStream.Application.csproj" />
+  <Project Path="BidStream.Domain/BidStream.Domain.csproj" />
+  <Project Path="BidStream.Infrastructure/BidStream.Infrastructure.csproj" />
+  <Project Path="BidStream.WebApi/BidStream.WebApi.csproj" />
+</Solution>
